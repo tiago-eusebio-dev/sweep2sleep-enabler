@@ -1,0 +1,7 @@
+id=sweep2sleep-enabler
+name=sweep2sleep Enabler
+version=v1.0
+versionCode=1
+author=tfae
+description=sweep2sleep is a gesture that exists on some Android ROMs that makes your device sleep if you slide right-to-left or left-to-right on the bottom of your screen. This module enables sweep2sleep rigt-to-left on ROMs that support this feature
+template=1400
