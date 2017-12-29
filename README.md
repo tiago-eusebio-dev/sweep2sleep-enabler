@@ -8,14 +8,15 @@ echo "2" > sys/sweep2sleep/sweep2sleep
 ```
 
 #### Current Version
-1.0
+1.1
 
 #### Changelog
 
+* 1.1 (29.12.2017) - Update to Magisk template v1500
 * 1.0 (25.07.2017) - Initial release
 
 #### Magisk Template
-v1400
+v1500
 
 #### NOTICE
 
