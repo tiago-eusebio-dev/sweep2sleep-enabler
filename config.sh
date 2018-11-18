@@ -40,10 +40,10 @@ LATESTARTSERVICE=true
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "******************************"
-  ui_print "      sweep2sleep Enabler     "
-  ui_print "          tfae @ XDA          "
-  ui_print "******************************"
+  ui_print "*****************************"
+  ui_print "     sweep2sleep Enabler     "
+  ui_print "          tfae @ XDA         "
+  ui_print "*****************************"
 }
 
 ##########################################################################################

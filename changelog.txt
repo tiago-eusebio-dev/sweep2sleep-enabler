@@ -1,5 +1,0 @@
-v1.1 (29.12.2017)
-    - Update to Magisk template v1500
-
-v1.0 (25.07.2017)
-    - Initial release
