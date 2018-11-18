@@ -1,4 +1,4 @@
-sweep2sleep Disabler
+sweep2sleep Enabler
 ==========
 
 sweep2sleep is a gesture that exists on some Android ROMs (eg. Resurrection Remix) that makes your device sleep if you slide right or left on the bottom of your screen.
