@@ -28,4 +28,4 @@ This module enables sweep2sleep right-to-left by running the following command i
 * <a href="https://forum.xda-developers.com/member.php?u=4470081">topjohnwu@xda</a> for developing Magisk
 
 
-Copyright (C) 2017-2018 tfae (tfaeusebio@gmail.com)
+Copyright (C) 2017-2018 <a href="https://forum.xda-developers.com/member.php?u=6415870">tfae@xda</a> (tfaeusebio@gmail.com)
