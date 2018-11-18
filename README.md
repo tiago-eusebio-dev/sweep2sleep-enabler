@@ -5,7 +5,7 @@ sweep2sleep is a gesture that exists on some Android ROMs (eg. Resurrection Remi
 
 This module enables sweep2sleep by running the following command in the "late_start" service:
 
-`echo "0" > sys/sweep2sleep/sweep2sleep`
+`echo "2" > sys/sweep2sleep/sweep2sleep`
 
 
 ## Changelog
@@ -26,7 +26,6 @@ This module enables sweep2sleep by running the following command in the "late_st
 
 ## Credits
 * <a href="https://forum.xda-developers.com/member.php?u=4470081">topjohnwu@xda</a> for developing Magisk
-* <a href="https://forum.xda-developers.com/member.php?u=4960264">Salkrikaltor@xda</a> for <a href="https://forum.xda-developers.com/showpost.php?p=70733735&postcount=962">sharing</a> how to disable it.
 
 
 Copyright (C) 2017-2018 tfae (tfaeusebio@gmail.com)
