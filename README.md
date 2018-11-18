@@ -20,7 +20,7 @@ This module enables sweep2sleep right-to-left by running the following command i
 
 
 ## Links
-* [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/magisk-sweep2sleep-enabler-t3681631)
+* [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/magisk-sweep2sleep-enabler-v3-t3868515)
 * [![Magisk](https://img.shields.io/badge/Magisk-v17%2B-brightgreen.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
 
