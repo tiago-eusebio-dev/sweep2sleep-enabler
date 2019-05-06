@@ -1,7 +1,7 @@
 sweep2sleep Enabler
 ==========
 
-sweep2sleep is a gesture that exists on some Android ROMs (eg. Resurrection Remix) that makes your device sleep if you slide right or left on the bottom of your screen.
+sweep2sleep is a gesture that exists on some Android ROMs (eg. Resurrection Remix N) that makes your device sleep if you slide right or left on the bottom of your screen.
 
 This module enables sweep2sleep right-to-left by running the following command in the "late_start" service:
 
@@ -9,6 +9,7 @@ This module enables sweep2sleep right-to-left by running the following command i
 
 
 ## Changelog
+* v4   (06.05.2019) - Update to Magisk v18100 template
 * v3   (18.11.2018) - Update to Magisk v17000 template
 * v1.1 (29.12.2017) - Update to Magisk v1500 template
 * v1.0 (25.07.2017) - Initial release
